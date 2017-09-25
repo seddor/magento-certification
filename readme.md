@@ -1,4 +1,4 @@
-#Magento 1 developer plus certification
+# Magento 1 developer plus certification
 
 Это конспект для пдоготовки к сертификации по первой мадженте для бекенд-разработчиков.
 Структура конспекта основана на  certification study guide предоставляемый разработчиками Magento.
