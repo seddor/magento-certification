@@ -29,3 +29,5 @@ EAV (Entity-Attribute-Value) — состоит из следующих част
 
 
 [подробнее про создание кастомного EAV типа](https://github.com/colinmurphy/magento-exam-notes/blob/master/5.%20EAV/1.%20EAV%20Concepts/1.%20Define%20basic%20EAV%20concepts%20and%20class%20hierarchy.md#3-create-a-eav-type)
+
+http://www.divisionlab.com/solvingmagento/magento-eav-system/
