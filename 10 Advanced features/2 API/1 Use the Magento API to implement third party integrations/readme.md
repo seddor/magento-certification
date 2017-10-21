@@ -7,6 +7,13 @@
 api.xml
 ```xml
 <adapters>
+  <api>
+        <resources>
+            <customer translate="title" module="customer">
+                <model>customer/customer_api</model>
+            </customer>
+        </resources>
+    </api>
     <soap>
         <model>api/server_adapter_soap</model>
         <handler>default</handler>
